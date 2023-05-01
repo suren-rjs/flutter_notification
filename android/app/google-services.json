@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "455141322739",
+    "project_id": "notification-c",
+    "storage_bucket": "notification-c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455141322739:android:17d72561d668f752fdac86",
+        "android_client_info": {
+          "package_name": "com.example.notification_c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455141322739-tndhabd5rfesl85oddn6tvvhp3vgfcmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsmCTQkFzDN1pLatHgssANSGpUZkBp7d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455141322739-tndhabd5rfesl85oddn6tvvhp3vgfcmh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "455141322739-n6mon86v6q78eeinrbmui7sao61saufr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jafris.notification"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
