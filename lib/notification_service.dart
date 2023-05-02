@@ -89,6 +89,7 @@ class NotificationService {
       androidScheduleMode: AndroidScheduleMode.exact,
       uiLocalNotificationDateInterpretation:
           UILocalNotificationDateInterpretation.absoluteTime,
+      // ignore: deprecated_member_use
       androidAllowWhileIdle: true,
     );
   }
